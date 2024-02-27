@@ -50,5 +50,6 @@ npm test
 ![(C:\Users\Eddie\Week-2-challenge\week-2\images\.png)]
 
 ## Questions
+Worked with Peer on some snippets of code
 
 If you have any questions about the repo, open an issue or contact me directly at Wxlfecod@gmail.com. You can find more of my work at [Wxxlfe](https://github.com/Wxxlfe/).
