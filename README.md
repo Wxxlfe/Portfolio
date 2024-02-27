@@ -1,6 +1,4 @@
 # week-2
-# week-13
-# Week-2
 ![GitHub License](https://img.shields.io/badge/license-${license}-blue.svg)
 
 ## Description
