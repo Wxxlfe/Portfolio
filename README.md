@@ -46,7 +46,7 @@ To run tests, run the following command:
 ```
 npm test
 ```
-## Screemshot
+## Screenshot
 ![(C:\Users\Eddie\Week-2-challenge\week-2\images\.png)]
 
 ## Questions
